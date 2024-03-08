@@ -11,5 +11,6 @@ namespace AppTestGit
     internal class Dev1
     {
         private int i = 0;
+        private int j = 0;
     }
 }
