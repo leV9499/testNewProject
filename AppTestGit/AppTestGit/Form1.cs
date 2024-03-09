@@ -30,6 +30,9 @@ namespace AppTestGit
             MessageBox.Show("success"); MessageBox.Show("success"); MessageBox.Show("success"); MessageBox.Show("success");
            MessageBox.Show("Hello Peter Hello Merry");
 
+
+            MessageBox.Show("Minh");
+            
         }
         private void Test()
         {
