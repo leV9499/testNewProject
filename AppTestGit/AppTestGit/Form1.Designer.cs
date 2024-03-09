@@ -1,4 +1,6 @@
-﻿namespace AppTestGit
+﻿using System;
+
+namespace AppTestGit
 {
     partial class Form1
     {
@@ -19,6 +21,10 @@
             }
             base.Dispose(disposing);
         }
+        public void hi()
+        {
+            Console.WriteLine("hi");
+        }
 
         #region Windows Form Designer generated code
 
@@ -28,6 +34,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< HEAD
             this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -41,12 +48,19 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+=======
+            this.SuspendLayout();
+            // 
+>>>>>>> origin/main
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+<<<<<<< HEAD
             this.Controls.Add(this.button1);
+=======
+>>>>>>> origin/main
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
