@@ -32,7 +32,6 @@ namespace AppTestGit
         private void Test()
         {
             MessageBox.Show("success");
-            
         }
     }
 }
