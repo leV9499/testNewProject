@@ -27,16 +27,7 @@ namespace AppTestGit
         private void button1_Click(object sender, EventArgs e)
         {
             int i = 1;
-            MessageBox.Show("success");
-            MessageBox.Show("success");
-            MessageBox.Show("success");
-            MessageBox.Show("success");
-            MessageBox.Show("success");
-            MessageBox.Show("success");
-            MessageBox.Show("success");
-            MessageBox.Show("success");
-            MessageBox.Show("success");
-            MessageBox.Show("success");
+            
         }
         private void Test()
         {
