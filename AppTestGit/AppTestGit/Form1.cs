@@ -21,13 +21,14 @@ namespace AppTestGit
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("ok");
+            MessageBox.Show("hehe");
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             int i = 1;
             MessageBox.Show("success");
-            MessageBox.Show("hehe");
+            
         }
     }
 }
