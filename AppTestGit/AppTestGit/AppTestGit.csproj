@@ -46,12 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="dev1_demo.cs" />
-=======
     <Compile Include="demo1.cs" />
     <Compile Include="dev2_demo.cs" />
->>>>>>> origin/main
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,11 +57,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-<<<<<<< HEAD
     <Compile Include="Tien.cs" />
 =======
     <Compile Include="test3.cs" />
->>>>>>> origin/main
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
