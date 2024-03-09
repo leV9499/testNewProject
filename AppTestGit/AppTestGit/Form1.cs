@@ -27,11 +27,7 @@ namespace AppTestGit
         {
             int i = 1;
             MessageBox.Show("success");
-
-      
-     
-
-// origin/main
+            MessageBox.Show("hehe");
         }
     }
 }
