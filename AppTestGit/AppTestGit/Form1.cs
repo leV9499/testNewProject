@@ -16,5 +16,14 @@ namespace AppTestGit
         {
             InitializeComponent();
         }
+
+        public void login()
+        {
+            Console.WriteLine("hello");
+        }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
