@@ -1,4 +1,6 @@
-﻿namespace AppTestGit
+﻿using System;
+
+namespace AppTestGit
 {
     partial class Form1
     {
@@ -18,6 +20,10 @@
                 components.Dispose();
             }
             base.Dispose(disposing);
+        }
+        public void hi()
+        {
+            Console.WriteLine("hi");
         }
 
         #region Windows Form Designer generated code
