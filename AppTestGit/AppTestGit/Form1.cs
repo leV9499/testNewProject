@@ -39,6 +39,16 @@ namespace AppTestGit
         private void Test()
         {
             MessageBox.Show("success");
+            MessageBox.Show("success");
+            MessageBox.Show("success");
+            MessageBox.Show("success");
+            MessageBox.Show("success");
+            MessageBox.Show("success");
+            MessageBox.Show("success");
+            MessageBox.Show("success");
+            MessageBox.Show("success");
+            MessageBox.Show("success");
+            MessageBox.Show("success");
         }
     }
 }
