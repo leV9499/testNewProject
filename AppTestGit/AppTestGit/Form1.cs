@@ -29,5 +29,9 @@ namespace AppTestGit
             MessageBox.Show("success");
             MessageBox.Show("hehe");
         }
+        private void Test()
+        {
+
+        }
     }
 }
