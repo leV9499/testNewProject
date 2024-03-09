@@ -17,7 +17,7 @@ namespace AppTestGit
             InitializeComponent();
         }
 
-<<<<<<< HEAD
+// HEAD
         private void Form1_Load(object sender, EventArgs e)
         {
             
@@ -26,15 +26,12 @@ namespace AppTestGit
         private void button1_Click(object sender, EventArgs e)
         {
             int i = 1;
-=======
-        public void login()
-        {
-            Console.WriteLine("hello");
-        }
-        private void Form1_Load(object sender, EventArgs e)
-        {
+            MessageBox.Show("success");
 
->>>>>>> origin/main
+      
+     
+
+// origin/main
         }
     }
 }
